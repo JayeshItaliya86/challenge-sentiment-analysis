@@ -1,6 +1,6 @@
 # Tweet Sentiment Analysis
 
-<img src="https://github.com/JayeshItaliya86/challenge-sentiment-analysis/blob/main/data/Netflix.png" width="400" height="350">
+<img src="https://github.com/JayeshItaliya86/challenge-sentiment-analysis/blob/main/data/Netflix.png" width="400" height="350"> | <img src="https://github.com/JayeshItaliya86/challenge-sentiment-analysis/blob/main/data/squid.png" width="400" height="350">
 
 # Description  
 The Netflix company wants to analyze people's reaction to their new show "Squid Game" on Twitter. They are only interested in English speaker's reactions.  
