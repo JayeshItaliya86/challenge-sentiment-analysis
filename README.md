@@ -1,5 +1,7 @@
 # Tweet Sentiment Analysis
 
+![label](data/Netflix.png)
+
 # Description  
 The Netflix company wants to analyze people's reaction to their new show "Squid Game" on Twitter. They are only interested in English speaker's reactions.  
 
@@ -24,7 +26,7 @@ The Netflix company wants to analyze people's reaction to their new show "Squid 
 |twitter_scrapping.py|use it to scrap the tweets from twitter|
 
 # Data source
-![Dataset]:(https://github.com/JayeshItaliya86/challenge-sentiment-analysis/blob/main/data/tweets_scraped.csv)
+* [Dataset:](https://github.com/JayeshItaliya86/challenge-sentiment-analysis/blob/main/data/tweets_scraped.csv)
 * No of tweets : 50003
 
 # Website
