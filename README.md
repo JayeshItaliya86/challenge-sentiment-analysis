@@ -21,7 +21,7 @@ The Netflix company wants to analyze people's reaction to their new show "Squid 
 | File | Description |
 |:---|:---|
 |data/tweet_scraped.csv|CSV file regarding Squid Games tweets|
-|sentiment-app @ c862f0d| Web application repository|
+|sentiment-app @ ce6260a| Web application repository|
 |data_preprocessing.py|use it to preprocess the dataset|
 |twitter_scrapping.py|use it to scrap the tweets from twitter|
 
